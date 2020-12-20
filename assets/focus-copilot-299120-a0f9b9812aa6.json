@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "focus-copilot-299120",
+  "private_key_id": "a0f9b9812aa696d16115ca92759ecd6904b31f05",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDwBn7O9RPVufH2\nxGVNNPbc6Z8FxijrYl23INhXYnxU0UGK/KHLZXwukDjB/z8R/ROnRlQ4nmBWwh+p\nNUrlQSWzFZrHvtBp5ogI5iV96/Qj20vd3ACeEk8PjMF+W6BaW3Th7sGTvocinT9V\nn7pwKSdvFGy71xJ15SkSYdjH8PhaCy/2W6riAUGNwHszUX4ePYLgyh4p0zucjYM3\nS6ZthZvNOBEQI5+XbHlhoVNrUVc2OKT730yWnXoE+dlYx+VUHtnFnXV72SR3CpyC\ne6u2HFu7lF8Ps62lGMlKsV7q+kuaeQaPcP8zoBhrGxZBxv6EPxKM/bEiH89KkXn0\n92H4yDxrAgMBAAECggEAWcf0MvGVI8LT8RvxUHnZRTTV2NEQiUtYBqHwim86VneX\nbqek1XH2i2xC7r3NF6t0aIN0CWGkY49lTGO0yiAeO+h+5uxHBPXIOJvttjZGMgtb\nS3d5e6cZj5V04xDe4C2JgOFP4zXHUnlDMYH3uPCL4Y7gRTrjmtnHDSswbUmDfBot\nuZ6J9l+9HbsMu2+5Aj44BW5c2tKS9XnX5jCyNYhxAY8PNPqRy4KatjY8IJxkHPz5\nEUys6Y8g0X74ORiXC/vJHUdc45mzfnGpmqklaG/H0NyRV0UyHuHFjsiHYc33PmEd\n8YwDYWlKEbLdlxPyuU5adRimlVqIHbpOqc2latoogQKBgQD5unnOAjWLvrUvTkTU\nfw2ZUMh+uTC2opJlYU/6RqchLL+fyUNNkv7Uqi8DzFJbEHWATOISbLVN8OgARuHA\nfbevzpJSJO/rduD0s7ZazH8v+WIXk0yEep0kZUjwfZVHxANdzBIaD3qcvZzGH4/r\nQCmygMsjYpg8N2ItILrwqUEHoQKBgQD2DaNK6cLxga45N7DSdFDzh2Bb3H8JT1AW\nYRPqvq7KY/veyCm/YC0qe6ks0O3Z0T7/MLcG7YZmmDJphFiOWQP2+JrfuKwenrz8\nKbi4mFra7EcZufLPpcuSAmWW0UHqX8K0U7w+9QVC64k5E3lz/zYFw1s43ghM9TV6\ncWZz2oIYiwKBgFDfuyKkRIMFN9giGNhYbScBqmyfvM7ox1Bdu3DqAKYVv9kXbNxq\nhmyI0MECIomrQuJSA8TDv9OF+Rxd2C5miF4/H9PKcohm72NP7/Zn06jNsp6/7T/a\nFZn70ytPAFFFgXGW7SXTbXnlTig7gHhHRzmvzBmhjHuz0++ZcfEOXykBAoGAb3+q\nmY3omwwK6T7FT/kJnfGgxr/aiVt5jUqcfem+x1QblM7brC9nCDNVbEuZHPVnOLjY\nl7kXCHK7lXk1r/vCgi4R8IN867s/JH27iVrxAPfFGHFdCJ+26glQA9H7rruKPbEc\nQuNBaRvW6RhcFyZ1UpM+STzEQitz+nJc3O8NuRUCgYBdoLwD0L12ZwKAX3rot65k\n4GFtT92Kywtmuq8tPz0B4gdIEmjbaMywSu+wj8XVS2rukb7lH7U009rWgMYc6Y8Q\naPNRax7Qn+jSt8lLo2W/eFMR6BxcA3z1LRgp26tAEyCIou7bjZJ+t7evO8cew9hf\nLs302px/RevKClPFYKJx1g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pluto-563@focus-copilot-299120.iam.gserviceaccount.com",
+  "client_id": "101304954225664021891",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pluto-563%40focus-copilot-299120.iam.gserviceaccount.com"
+}
